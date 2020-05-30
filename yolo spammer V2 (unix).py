@@ -41,10 +41,6 @@ for count in range(1,nums +1):
     sendbutton.click()
     print("message sent")
     
-    #close chrome window after 2 seconds
-    time.sleep(2)
-    os.system("taskkill /im chrome.exe")
-    print("task killed")
 
 #finished
 print("spam finished the message " + message + " was entered " + amount + " times")
