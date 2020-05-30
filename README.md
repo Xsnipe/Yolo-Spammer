@@ -16,7 +16,7 @@ chrome and check version below the Google Chrome logo
 **How to Use**
 For windows users just click on the "Yolo Spammer V2 Executable" File
 
-For MacOs ot Linux Users You must install python you can do this by open terminal and type the following commands
+For MacOs and Linux Users You must install python you can do this by open terminal and type the following commands
 
 If that does not work try
 
@@ -28,11 +28,7 @@ sudo apt-get python3
 sudo apt-get python3-pip
 ~~~
 
-~~~
-pip3 install selenium
-~~~
-
-after installing python/pip/selenium reopen terminal and type
+after installing python and pip reopen terminal and type
 
 ~~~
 git clone https://github.com/Xsnipe/Yolo-Spammer.git
@@ -41,7 +37,7 @@ git clone https://github.com/Xsnipe/Yolo-Spammer.git
 then type
 
 ~~~
-python3 yolo spammer V2 (unix).py
+python3 'yolo spammer V2 (unix).py'
 ~~~
 
 The program should run after that if not read through the steps again
