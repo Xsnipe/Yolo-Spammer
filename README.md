@@ -42,7 +42,7 @@ cd Yolo-Spammer/
 python3 'yolo spammer V2 (unix).py'
 ~~~
 
-The program should run after that if not read through the steps again
+The program should run after that if not read through the steps again. If you are sure you did it right then leave an issue comment on this repository with the error code and I will try to fix the issue.
 
 ---
 ### V3 with proxies comming soon...
