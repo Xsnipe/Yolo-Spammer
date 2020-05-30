@@ -28,13 +28,15 @@ sudo apt-get python3
 sudo apt-get python3-pip
 ~~~
 
-after installing python and pip reopen terminal and type
+after installing python and pip reopen terminal and type the following
 
 ~~~
 git clone https://github.com/Xsnipe/Yolo-Spammer.git
 ~~~
 
-then type
+~~~
+cd Yolo-Spammer/
+~~~
 
 ~~~
 python3 'yolo spammer V2 (unix).py'
