@@ -18,17 +18,21 @@ For windows users just click on the "Yolo Spammer V2 Executable" File
 
 For MacOs ot Linux Users You must install python you can do this by open terminal and type the following commands
 
-~~~
-apt-get install python3
-~~~
-
 If that does not work try
 
 ~~~
 sudo apt-get python3
 ~~~
 
-after installing python reopen terminal and type
+~~~
+sudo apt-get python3-pip
+~~~
+
+~~~
+pip3 install selenium
+~~~
+
+after installing python/pip/selenium reopen terminal and type
 
 ~~~
 git clone https://github.com/Xsnipe/Yolo-Spammer.git
