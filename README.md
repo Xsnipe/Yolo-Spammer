@@ -25,7 +25,7 @@ sudo apt-get python3
 ~~~
 
 ~~~
-sudo apt-get python3-pip
+sudo apt install python3-pip
 ~~~
 
 after installing python and pip reopen terminal and type the following
